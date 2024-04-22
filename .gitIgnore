@@ -1,0 +1,16 @@
+venv/
+
+*.pkl
+*.pickle
+
+*.pyc
+
+.env
+*.env
+*/.env
+*/*/.env
+
+*/data
+
+*.hdf
+*.json
